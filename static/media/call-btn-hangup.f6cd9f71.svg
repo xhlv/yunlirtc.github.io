@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组备份 13</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0.382121516%" id="linearGradient-1">
+            <stop stop-color="#B01616" offset="0%"></stop>
+            <stop stop-color="#B81F38" offset="99.9234586%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF4564" offset="0%"></stop>
+            <stop stop-color="#EF2727" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="24.3469532" cy="24.3469532" r="24.3469532"></circle>
+        <filter x="-3.1%" y="-3.1%" width="106.2%" height="106.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.312385671   0 0 0 0 0.426988059  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视频通话-切换&amp;弹窗" transform="translate(-2624.000000, -684.000000)">
+            <g id="编组备份-13" transform="translate(2624.526316, 684.157895)">
+                <g id="椭圆形">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <circle stroke="url(#linearGradient-2)" stroke-width="0.502817512" stroke-linejoin="square" cx="24.3469532" cy="24.3469532" r="24.0955445"></circle>
+                </g>
+                <path d="M22.8066741,26.1361901 C24.1137024,27.4432185 25.6696886,28.5012891 27.4123931,29.1236836 L29.7774921,27.2565002 C29.9019709,27.1320213 30.0886893,27.1320213 30.2754076,27.2565002 L34.6321689,30.0572753 C35.1923239,30.4307119 35.4412817,31.1775853 35.067845,31.7377403 C35.0056056,31.8622192 34.9433661,31.9244586 34.8188872,31.9866981 L32.7649855,33.9783604 C32.142591,34.5385154 31.3334782,34.7874732 30.5243654,34.6629943 C26.5410409,33.8538815 22.8066741,31.8622192 19.8814201,29.0614441 C16.9561661,26.260669 14.9022644,22.6507811 14.0309121,18.6674566 C13.9064332,17.8583438 14.155391,17.049231 14.7155461,16.4268365 L16.8316872,14.3729348 C17.3296028,13.8750192 18.0764762,13.8750192 18.5743917,14.3729348 C18.6988706,14.4351742 18.76111,14.5596531 18.8233495,14.6218925 L21.686364,18.9164144 C21.8108429,19.0408932 21.8108429,19.2276116 21.686364,19.4143299 L19.7569412,21.7171894 C20.4415751,23.3976545 21.4996457,24.8914012 22.8066741,26.1361901 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" transform="translate(24.622455, 24.346953) rotate(-225.000000) translate(-24.622455, -24.346953) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
