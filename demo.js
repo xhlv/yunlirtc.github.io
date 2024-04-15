@@ -9,9 +9,9 @@ import 'yunli-rtc/dist/css/common.blue.less';
 import 'yunli-rtc/dist/css/common.darkblue.less';
 import 'yunli-rtc/dist/css/common.white.less';
 
-YunliRTC.setSDK('hm');
-
 function Demo() {
+  YunliRTC.setSDK('hm');
+
   return (
     <div style={{ textAlign: 'center', padding: '20px' }}>
       <Button
